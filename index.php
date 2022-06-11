@@ -14,41 +14,42 @@
         <img class="hamburguer" src="img/hamburguesa.svg" alt="">
         <nav class="menu-navegacion">
                 <a href="#inicio">INICIO</a>
-                <a href="#servicio">IMPORTANCIA</a>
-                <a href="#galeria">GALERÍA</a>
-                <a href="#expertos">MOMENTOS</a>
+                <a href="#servicio">CONTENIDO</a>
+                <a href="#iaas">IaaS</a>
+                <a href="#paas">PaaS</a>
+                <a href="#saas">SaaS</a>
                 <a href="#footer">CONTACTOS</a>
         </nav>
         <div class="contenedor head">
-            <h1 class="titulo">BIENVENIDA PRIMAVERA</h1>
-            <p class="copy">LA ESTACIÓN DE LOS NUEVOS COMIENZOS</p>
+            <h1 class="titulo">CLOUD COMPUTING</h1>
+            <p class="copy">Elementos del Cloud Computing</p>
         </div>
         
     </header>
     <main>
         <section class="services contenedor" id="servicio">
-            <h2 class="subtitulo">IMPORTANCIA DE LA PRIMAVERA</h2>
+            <h2 class="subtitulo">CONTENIDO</h2>
             <div class="contenedor-servicio">
-                <img src="img/imagen8.jpg" alt="">
+                <img src="img/cloud_1.jpg" alt="">
                 <div class="checklist-servicio">
                     <div class="service">
-                        <h3 class="n-service"><span class="number">1</span>POSEES MÁS ENERGÍA</h3>
+                        <h3 class="n-service"><span class="number">1</span>Infrastructure as a Service (IaaS)</h3>
                         <p> CON EL AUMENTO DE LOS RAYOS DEL SOL, LAS PERSONAS TIENEN MÁS ENERGÍA Y MENOS SUEÑO.</p>
                     </div>
                     <div class="service">
-                        <h3 class="n-service"><span class="number">2</span>CAMBIOS ANÍMICOS</h3>
+                        <h3 class="n-service"><span class="number">2</span>Platform as a Service (PaaS)</h3>
                         <p> CON EL CAMBIO DE ESTACIÓN AUMENTA LA SEROTONINA, HORMONA QUE MEJORA TU ESTADO DE ÁNIMO.</p>
                     </div>
                     <div class="service">
-                        <h3 class="n-service"><span class="number">3</span>DÍAS MÁS SOLEADOS</h3>
+                        <h3 class="n-service"><span class="number">3</span>Software as a Service (SaaS)</h3>
                         <p> CON DÍAS MÁS SOLEADOS CRECE EL DESEO DE REALIZAR ACTIVIDADES AL AIRE LIBRE.</p>
                     </div>
                 </div>
             </div>
         </section>
-        <section class="gallery" id="galeria">
+        <section class="gallery" id="iaas">
             <div class="contenedor">
-                <h2 class="subtitulo">MOMENTOS UNICOS E INOLVIDABLES</h2>
+                <h2 class="subtitulo">Infrastructure as a Service</h2>
                 <div class="contenedor-galeria">
                     <img src="img/imagen1.jpg" class="img-galeria" alt="Hola">
                     <img src="img/imagen2.jpg" class="img-galeria" alt="">
@@ -63,25 +64,50 @@
             <img src="img/close.svg" alt="" class="close">
             <img src="" alt="" class="agregar-imagen">
         </div>
-        <section class="contenedor" id="expertos">
-            <h2 class="subtitulo">BENDITA PRIMAVERA</h2>
+        <section class="contenedor" id="paas">
+            <h2 class="subtitulo">Platform as a Service</h2>
             <section class="experts">
                 <div class="cont-expert">
-                    <img src="img/imagen9.jpg" alt="">
+                    <img src="img/imagen8.jpg" alt="">
                     <h3 class="n-expert"></h3>
                 </div>
                 <div class="cont-expert">
-                    <img src="img/imagen10.jpg" alt="">
+                    <img src="img/imagen8.jpg" alt="">
                     <h3 class="n-expert"></h3>
                 </div>
                 <div class="cont-expert">
-                    <img src="img/imagen11.jpg" alt="">
+                    <img src="img/imagen8.jpg" alt="">
                     <h3 class="n-expert"></h3>
                 </div>
             </section>
         </section>
+        <section class="gallery" id="saas">
+            <div class="contenedor">
+                <h2 class="subtitulo">Software as a Service</h2>
+                <div class="contenedor-galeria">
+                    <img src="img/imagen1.jpg" class="img-galeria" alt="Hola">
+                    <img src="img/imagen2.jpg" class="img-galeria" alt="">
+                    <img src="img/imagen3.jpg" class="img-galeria" alt="">
+                    <img src="img/imagen4.jpg" class="img-galeria" alt="">
+                    <img src="img/imagen5.jpg" class="img-galeria" alt="">
+                    <img src="img/imagen6.jpg" class="img-galeria" alt="">
+                </div>
+            </div>
+        </section>
+        <section class="contenedor" id="paas">
+            <h2 class="subtitulo">CREADO POR ...</h2>
+            <section class="experts">
+                <div class="cont-expert">
+                    <img src="img/imagen8.jpg" alt="">
+                    <h3 class="n-expert">ALEXIS ANGELES SEGUNDO</h3>
+                </div>
+                <div class="cont-expert">
+                    <img src="img/imagen8.jpg" alt="">
+                    <h3 class="n-expert">AARON CRUZ GONZALEZ</h3>
+                </div>
+            </section>
+        </section>
     </main>
-
     <footer id="footer">
         <div class="contenedor footer-content">
                 <div class="contact-us">

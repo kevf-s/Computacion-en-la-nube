@@ -18,7 +18,7 @@ body{
 }
 .header{
     height: 100vh;
-    background-image: linear-gradient(to top, rgba(251, 194, 235, 0.486) 0%, hsla(218, 68%, 79%, 0.514) 100%), url(/img/imagen7.jpg);
+    background-image: linear-gradient(to top, rgba(0, 162, 255, 0.486) 0%, hsl(231, 100%, 24%) 100%), url(/img/cloud_1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -32,7 +32,7 @@ body{
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    color: rgb(147, 170, 231)207, 174, 174);
+    color: rgb(0, 68, 253)207, 174, 174);
 }
 
 
@@ -88,7 +88,7 @@ body{
 
 /* Services */
 .subtitulo{
-    color: #9f8ad0;
+    color: #0076d6;
     font-size: 40px;
     text-align: center;
     font-weight: 300;
@@ -117,13 +117,13 @@ body{
 
 .n-service{
     margin-bottom: 7px;
-    color: #9f8ad0;
+    color: #0059ff;
     font-weight:  bolder;
 }
 
 .number{
     display: inline-block;
-    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+    background-image: linear-gradient(to top, #4c00ff 0%, #00ffea 100%);
     line-height: 30px;
     text-align: center;
     border-radius: 50%;
@@ -135,7 +135,7 @@ body{
 }
 
 .gallery{
-    background: #f2f2f2;
+    background: #caeaff;
 }
 .contenedor-galeria{
     display: flex;
@@ -207,7 +207,7 @@ body{
     font-weight: 400;
 }
 footer{
-    background: #9f8ad0;
+    background: #0076d6;
     padding-bottom: 0.1px;
 }
 .footer-content{

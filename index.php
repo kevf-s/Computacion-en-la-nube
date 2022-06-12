@@ -34,16 +34,23 @@
                 <div class="checklist-servicio">
                     <div class="service">
                         <h3 class="n-service"><span class="number">1</span>INFRASTRUCTURE AS A SERVICE (IaaS)</h3>
-                        <p> CON EL AUMENTO DE LOS RAYOS DEL SOL, LAS PERSONAS TIENEN MÁS ENERGÍA Y MENOS SUEÑO.</p>
+                        <p align=" justify"> La Infraestructura como Servicio (IaaS) es la entrega de hardware informático (servidores,
+                            tecnología de redes almacenamiento y espacio en el centro de datos) como un servicio. También se puede esperar
+                            que incluya la entrega de sistemas operativos y tecnología de virtualización para gestionar los recursos. Los
+                            clientes de IaaS alquilan recursos informáticos en lugar de comprare instalarlos en su propio centro de datos.</p>
                     </div>
                     <div class="service">
-                        <a href="contenido/PaaS.php" target="_self">
-                        <h3 class="n-service"><span class="number">2</span>PLATFORM AS A SERVICE (PaaS)</h3></a>
-                        <p> CON EL CAMBIO DE ESTACIÓN AUMENTA LA SEROTONINA, HORMONA QUE MEJORA TU ESTADO DE ÁNIMO.</p>
+                        <h3 class="n-service"><span class="number">2</span>PLATFORM AS A SERVICE (PaaS)</h3>
+                        <p align=" justify"> En la Plataforma como Servicio (PaaS) esta se define como una plataforma informática que
+                            incluye un conjunto de capacidades de desarrollo, middleware y despliegue. Una característica clave del
+                            proveedor es la creación y el fomento de un ecosistema profundo de socios que se comprometen con este
+                            entorno para el futuro.</p>
                     </div>
                     <div class="service">
                         <h3 class="n-service"><span class="number">3</span>SOFTWARE AS A SERVICE (SaaS)</h3>
-                        <p> CON DÍAS MÁS SOLEADOS CRECE EL DESEO DE REALIZAR ACTIVIDADES AL AIRE LIBRE.</p>
+                        <p align=" justify"> El Software como Servicio (SaaS) es un modelo de distribución de software donde el soporte
+                            lógico y los respectivos datos que maneja se alojan en los servidores de un proveedor, cuyo acceso es a través
+                            de Internet. El proveedor no solo proporciona el hardware, sino también el software correspondiente.</p>
                     </div>
                 </div>
             </div>

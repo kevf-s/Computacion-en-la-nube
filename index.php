@@ -98,26 +98,32 @@
                 </div>
                 <h2 style="text-align: center;">CARACTERISITCAS</h2>
                 <div class="contenedor-galeria">
-                    <div class="multi_opcion">
-                        <p>sdasdas asdas dasdas dasd asd asd asd asd asd asdasf sadf adsf adsf sdafadgasfs</p>
+                    <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
+                        <p>La aplicación SaaS debe generalizarse lo suficiente para que muchos clientes se interesen en el servicio.</p>
                     </div>
-                    <div class="multi_opcion">
-                        <p>sdasdas asdas dasdas dasd asd asd asd asd asd asdasf sadf adsf adsf sdafadgasfs</p>
+                    <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
+                        <p>Las aplicaciones SaaS necesitan una navegación sofisticada y facilidad de uso.</p>
                     </div>
-                    <div class="multi_opcion">
-                        <p>sdasdas asdas dasdas dasd asd asd asd asd asd asdasf sadf adsf adsf sdafadgasfs</p>
+                    <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
+                        <p>La aplicación SaaS debe ser modular y orientada a servicios</p>
                     </div>
-                    <div class="multi_opcion">
-                        <p>sdasdas asdas dasdas dasd asd asd asd asd asd asdasf sadf adsf adsf sdafadgasfs</p>
+                    <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
+                        <p>Una aplicación SaaS debe incluir medición y monitoreo para que a los clientes se les pueda cobrar el uso real.</p>
                     </div>
-                    <div class="multi_opcion">
-                        <p>sdasdas asdas dasdas dasd asd asd asd asd asd asdasf sadf adsf adsf sdafadgasfs</p>
+                    <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
+                        <p>Una aplicación SaaS debe tener un servicio de facturación integrado.</p>
                     </div>
-                    <div class="multi_opcion">
-                        <p>sdasdas asdas dasdas dasd asd asd asd asd asd asdasf sadf adsf adsf sdafadgasfs</p>
+                    <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
+                        <p>Las aplicaciones SaaS necesitan interfaces publicadas y un ecosistema de socios que puedan expandir la base de clientes y el alcance del mercado de la empresa.</p>
                     </div>
-                    <div class="multi_opcion">
-                        <p>sdasdas asdas dasdas dasd asd asd asd asd asd asdasf sadf adsf adsf sdafadgasfs</p>
+                    <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
+                        <p>Las aplicaciones SaaS deben proporcionar configuradores de procesos comerciales sofisticados para los clientes.</p>
+                    </div>
+                    <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
+                        <p>Las aplicaciones SaaS necesitan proporcionar constantemente lanzamientos rápidos de nuevas funciones y nuevas capacidades.</p>
+                    </div>
+                    <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
+                        <p>Las aplicaciones SaaS tienen que proteger la integridad de los datos del cliente.</p>
                     </div>
                 </div>
                 <!-- <div class="contenedor-galeria">

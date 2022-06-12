@@ -34,23 +34,16 @@
                 <div class="checklist-servicio">
                     <div class="service">
                         <h3 class="n-service"><span class="number">1</span>INFRASTRUCTURE AS A SERVICE (IaaS)</h3>
-                        <p align=" justify"> La Infraestructura como Servicio (IaaS) es la entrega de hardware informático (servidores,
-                            tecnología de redes almacenamiento y espacio en el centro de datos) como un servicio. También se puede esperar
-                            que incluya la entrega de sistemas operativos y tecnología de virtualización para gestionar los recursos. Los
-                            clientes de IaaS alquilan recursos informáticos en lugar de comprare instalarlos en su propio centro de datos.</p>
+                        <p> IaaS es la entrega de hardware informático (servidores, tecnología de red.</p>
                     </div>
                     <div class="service">
-                        <h3 class="n-service"><span class="number">2</span>PLATFORM AS A SERVICE (PaaS)</h3>
-                        <p align=" justify"> En la Plataforma como Servicio (PaaS) esta se define como una plataforma informática que
-                            incluye un conjunto de capacidades de desarrollo, middleware y despliegue. Una característica clave del
-                            proveedor es la creación y el fomento de un ecosistema profundo de socios que se comprometen con este
-                            entorno para el futuro.</p>
+                        <a href="contenido/PaaS.php" target="_self">
+                        <h3 class="n-service"><span class="number">2</span>PLATFORM AS A SERVICE (PaaS)</h3></a>
+                        <p> CON EL CAMBIO DE ESTACIÓN AUMENTA LA SEROTONINA, HORMONA QUE MEJORA TU ESTADO DE ÁNIMO.</p>
                     </div>
                     <div class="service">
                         <h3 class="n-service"><span class="number">3</span>SOFTWARE AS A SERVICE (SaaS)</h3>
-                        <p align=" justify"> El Software como Servicio (SaaS) es un modelo de distribución de software donde el soporte
-                            lógico y los respectivos datos que maneja se alojan en los servidores de un proveedor, cuyo acceso es a través
-                            de Internet. El proveedor no solo proporciona el hardware, sino también el software correspondiente.</p>
+                        <p> CON DÍAS MÁS SOLEADOS CRECE EL DESEO DE REALIZAR ACTIVIDADES AL AIRE LIBRE.</p>
                     </div>
                 </div>
             </div>
@@ -58,14 +51,50 @@
         <section class="gallery" id="iaas">
             <div class="contenedor">
                 <h2 class="subtitulo">INFRASTRUCTURE AS A SERVICE (IaaS)</h2>
+                <div class="checklist-servicio">
+                <h2>QUE ES Y PARA QUE SIRVE?</h2>
+                    <div class="contenedor-servicio">
+                        <div class="checklist-servicio">
+                            <p style="text-align: justify;">
+        IaaS es la entrega de hardware informático(servidores, tecnología de red, almacenamiento y espacio de centro de datos) como un servicio.También puede esperar que incluya la entrega de sistemas operativos y tecnología de virtualización para administrar los recursos.Los clientes de IaaS alquilan recursos informáticos en lugar de comprarlos e instalarlos en su propio centro de datos.
+        IaaS lleva el modelo ISP a un nuevo nivel. Si su infraestructura (incluido el hardware informático, los sistemas operativos y la tecnología de virtualización) se entrega como un servicio, esperará que el nivel de entrega del servicio esté sincronizado con todas las variaciones en su demanda de esos servicios.
+            </p>    
+            </div>
+                <img src="img/iaaS.png" class="img-galeria" alt="Hola">
+           </div>
+
+           </div>
+                <h2 style="text-align: center;">CARACTERISITCAS</h2>
                 <div class="contenedor-galeria">
-                    <img src="img/imagen1.jpg" class="img-galeria" alt="Hola">
-                    <img src="img/imagen2.jpg" class="img-galeria" alt="">
-                    <img src="img/imagen3.jpg" class="img-galeria" alt="">
-                    <img src="img/imagen4.jpg" class="img-galeria" alt="">
-                    <img src="img/imagen5.jpg" class="img-galeria" alt="">
-                    <img src="img/imagen6.jpg" class="img-galeria" alt="">
-                </div>
+            </div>
+
+            <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
+                        <p>Un entorno virtualizado en la nube pública.</p>
+                    </div>
+
+                    <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
+                        <p>Servidores virtuales, conexiones de red, y almacenamiento en la nube donde poder construir tu propia plataforma informática.</p>
+                    </div>
+
+                    <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
+                        <p>Crea soluciones y aplicaciones tecnológicas cloud fácilmente.</p>
+                    </div>
+
+                    <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
+                        <p>Externaliza el hardware al servicio cloud y disminuye costes.</p>
+                    </div>
+
+                    <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
+                        <p>Ejecuta cualquier carga de trabajo en cualquier momento.</p>
+                    </div>
+
+                    <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
+                        <p>Innovadoras herramientas para migrar el trabajo local a la nube.</p>
+                    </div>     
+                <div style='float:leg;margin:0 auto;width:2040px;'> 
+                <img src="img/Tabla.png" class="img-galeria" alt="Hola">
+           </div>
+                  </div>  
             </div>
         </section>
         <div class="imagen-light">
@@ -154,6 +183,10 @@
                 <div class="cont-expert">
                     <img src="img/imagen8.jpg" alt="">
                     <h3 class="n-expert">AARON CRUZ GONZALEZ</h3>
+                </div>
+                <div class="cont-expert">
+                    <img src="img/imagen8.jpg" alt="">
+                    <h3 class="n-expert">KEVIN CELOTE SEGUNDO</h3>
                 </div>
             </section>
         </section>

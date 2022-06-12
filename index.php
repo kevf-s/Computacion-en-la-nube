@@ -13,16 +13,16 @@
     <header class="header" id="inicio">
         <img class="hamburguer" src="img/hamburguesa.svg" alt="">
         <nav class="menu-navegacion">
-                <a href="#inicio">INICIO</a>
-                <a href="#servicio">CONTENIDO</a>
+                <a href="#inicio">Inicio</a>
+                <a href="#servicio">Contenido</a>
                 <a href="#iaas">IaaS</a>
                 <a href="#paas">PaaS</a>
                 <a href="#saas">SaaS</a>
-                <a href="#footer">CONTACTOS</a>
+                <a href="#footer">Contactos</a>
         </nav>
         <div class="contenedor head">
             <h1 class="titulo">CLOUD COMPUTING</h1>
-            <p class="copy">Elementos del Cloud Computing</p>
+            <p class="copy">ELEMENTOS DEL CLOUD COMPUTING</p>
         </div>
         
     </header>
@@ -33,15 +33,16 @@
                 <img src="img/cloud_1.jpg" alt="">
                 <div class="checklist-servicio">
                     <div class="service">
-                        <h3 class="n-service"><span class="number">1</span>Infrastructure as a Service (IaaS)</h3>
+                        <h3 class="n-service"><span class="number">1</span>INFRASTRUCTURE AS A SERVICE (IaaS)</h3>
                         <p> CON EL AUMENTO DE LOS RAYOS DEL SOL, LAS PERSONAS TIENEN MÁS ENERGÍA Y MENOS SUEÑO.</p>
                     </div>
                     <div class="service">
-                        <h3 class="n-service"><span class="number">2</span>Platform as a Service (PaaS)</h3>
+                        <a href="contenido/PaaS.php" target="_self">
+                        <h3 class="n-service"><span class="number">2</span>PLATFORM AS A SERVICE (PaaS)</h3></a>
                         <p> CON EL CAMBIO DE ESTACIÓN AUMENTA LA SEROTONINA, HORMONA QUE MEJORA TU ESTADO DE ÁNIMO.</p>
                     </div>
                     <div class="service">
-                        <h3 class="n-service"><span class="number">3</span>Software as a Service (SaaS)</h3>
+                        <h3 class="n-service"><span class="number">3</span>SOFTWARE AS A SERVICE (SaaS)</h3>
                         <p> CON DÍAS MÁS SOLEADOS CRECE EL DESEO DE REALIZAR ACTIVIDADES AL AIRE LIBRE.</p>
                     </div>
                 </div>
@@ -49,7 +50,7 @@
         </section>
         <section class="gallery" id="iaas">
             <div class="contenedor">
-                <h2 class="subtitulo">Infrastructure as a Service</h2>
+                <h2 class="subtitulo">INFRASTRUCTURE AS A SERVICE (IaaS)</h2>
                 <div class="contenedor-galeria">
                     <img src="img/imagen1.jpg" class="img-galeria" alt="Hola">
                     <img src="img/imagen2.jpg" class="img-galeria" alt="">
@@ -65,7 +66,7 @@
             <img src="" alt="" class="agregar-imagen">
         </div>
         <section class="contenedor" id="paas">
-            <h2 class="subtitulo">Platform as a Service</h2>
+            <h2 class="subtitulo">PLATFORM AS A SERVICE (PaaS)</h2>
             <section class="experts">
                 <div class="cont-expert">
                     <img src="img/imagen8.jpg" alt="">
@@ -83,7 +84,7 @@
         </section>
         <section class="gallery" id="saas">
             <div class="contenedor">
-                <h2 class="subtitulo">Software as a Service</h2>
+                <h2 class="subtitulo">SOFTWARE AS A SERVICE (SaaS)</h2>
                 <div class="contenedor-galeria">
                     <img src="img/imagen1.jpg" class="img-galeria" alt="Hola">
                     <img src="img/imagen2.jpg" class="img-galeria" alt="">
@@ -95,7 +96,7 @@
             </div>
         </section>
         <section class="contenedor" id="paas">
-            <h2 class="subtitulo">CREADO POR ...</h2>
+            <h2 class="subtitulo">ELABORADO POR:</h2>
             <section class="experts">
                 <div class="cont-expert">
                     <img src="img/imagen8.jpg" alt="">
@@ -111,8 +112,8 @@
     <footer id="footer">
         <div class="contenedor footer-content">
                 <div class="contact-us">
-                    <h2 class="brand">ALEXIS ANGELES SEGUNDO | AARON CRUZ GONZALEZ</h2>
-                    <p>INGENIERIA EN SISTEMAS COMPUTACIONALES</p>
+                    <h2 class="brand">SISTEMAS DISTRIBUIDOS</h2>
+                    <p>DIVISIÓN DE INGENIERÍA EN SISTEMAS COMPUTACIONALES</p>
                 </div>
                 <div class="social-media">
                     <a href="./" class="social-media-icon">

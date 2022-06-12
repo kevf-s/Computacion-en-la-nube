@@ -145,6 +145,14 @@ body{
 }
 .img-galeria{
     width: 30%;
+    border-radius: 10px;
+    display: block;
+    margin-bottom: 15px;
+    box-shadow: 0 0 6px rgba(0, 0, 0, .6);
+    cursor: pointer;
+}
+.multi_opcion{
+    width: 30%;
     display: block;
     margin-bottom: 15px;
     box-shadow: 0 0 6px rgba(0, 0, 0, .6);

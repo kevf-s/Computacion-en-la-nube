@@ -84,14 +84,50 @@
         <section class="gallery" id="saas">
             <div class="contenedor">
                 <h2 class="subtitulo">Software as a Service</h2>
+                <div>
+                    <h2>QUE ES?</h2>
+                    <div class="contenedor-servicio">
+                        <div class="checklist-servicio">
+                            <p style="text-align: justify;">
+                            Una de las primeras implementaciones de los servicios en la nube fue el software como servicio (SaaS) el cual constaba de aplicaciones empresariales alojadas por el proveedor y entregadas como un servicio.
+        SaaS tiene sus raíces en un tipo temprano de operación de alojamiento realizada por proveedores de servicios de aplicaciones (ASP). Antes de la llegada de este tipo de servicio, las empresas a menudo gastaban grandes cantidades de dinero en implementar y personalizar estas aplicaciones para satisfacer los requisitos comerciales internos.
+                            </p>
+                        </div>
+                        <img src="img/SaaS.png" class="img-galeria" alt="Hola">
+                    </div>
+                </div>
+                <h2 style="text-align: center;">CARACTERISITCAS</h2>
                 <div class="contenedor-galeria">
+                    <div class="multi_opcion">
+                        <p>sdasdas asdas dasdas dasd asd asd asd asd asd asdasf sadf adsf adsf sdafadgasfs</p>
+                    </div>
+                    <div class="multi_opcion">
+                        <p>sdasdas asdas dasdas dasd asd asd asd asd asd asdasf sadf adsf adsf sdafadgasfs</p>
+                    </div>
+                    <div class="multi_opcion">
+                        <p>sdasdas asdas dasdas dasd asd asd asd asd asd asdasf sadf adsf adsf sdafadgasfs</p>
+                    </div>
+                    <div class="multi_opcion">
+                        <p>sdasdas asdas dasdas dasd asd asd asd asd asd asdasf sadf adsf adsf sdafadgasfs</p>
+                    </div>
+                    <div class="multi_opcion">
+                        <p>sdasdas asdas dasdas dasd asd asd asd asd asd asdasf sadf adsf adsf sdafadgasfs</p>
+                    </div>
+                    <div class="multi_opcion">
+                        <p>sdasdas asdas dasdas dasd asd asd asd asd asd asdasf sadf adsf adsf sdafadgasfs</p>
+                    </div>
+                    <div class="multi_opcion">
+                        <p>sdasdas asdas dasdas dasd asd asd asd asd asd asdasf sadf adsf adsf sdafadgasfs</p>
+                    </div>
+                </div>
+                <!-- <div class="contenedor-galeria">
                     <img src="img/imagen1.jpg" class="img-galeria" alt="Hola">
                     <img src="img/imagen2.jpg" class="img-galeria" alt="">
                     <img src="img/imagen3.jpg" class="img-galeria" alt="">
                     <img src="img/imagen4.jpg" class="img-galeria" alt="">
                     <img src="img/imagen5.jpg" class="img-galeria" alt="">
                     <img src="img/imagen6.jpg" class="img-galeria" alt="">
-                </div>
+                </div> -->
             </div>
         </section>
         <section class="contenedor" id="paas">

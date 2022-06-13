@@ -59,7 +59,6 @@
         <section class="gallery" id="iaas">
             <div class="contenedor">
                 <h2 class="subtitulo">INFRASTRUCTURE AS A SERVICE (IaaS)</h2>
-                <div>
                     <div class="contenedor-servicio">
                         <div class="checklist-servicio">
                             <h2 style="text-align: center;">SIGNIFICADO</h2><br>
@@ -70,27 +69,23 @@
                         </div>
                         <img src="img/iaaS.png" class="img-galeria" alt="Hola">
                     </div>
-
-                </div>
-                <h2 style="text-align: center;">CARACTERIZACIÓN DE SAAS</h2>
-                <div class="contenedor-galeria">
-            
-            </div>
-
-            <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
+            <!-- <h2 style="text-align: center;">CARACTERIZACIÓN DE SAAS</h2>
+            <div class="contenedor-servicio">
+                <div class="checklist-servicio">
+                    <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;"> 
                         <p>Un entorno virtualizado en la nube pública.</p>
-                            IaaS es la entrega de hardware informático(servidores, tecnología de red, almacenamiento y espacio de centro de datos) como un
+                            <p>IaaS es la entrega de hardware informático(servidores, tecnología de red, almacenamiento y espacio de centro de datos) como un
                             servicio.También puede esperar que incluya la entrega de sistemas operativos y tecnología de virtualización para administrar los
                             recursos.Los clientes de IaaS alquilan recursos informáticos en lugar de comprarlos e instalarlos en su propio centro de datos. 
                             IaaS lleva el modelo ISP a un nuevo nivel. Si su infraestructura (incluido el hardware informático, los sistemas operativos y la 
                             tecnología de virtualización) se entrega como un servicio, esperará que el nivel de entrega del servicio esté sincronizado con. 
                             todas las variaciones en su demanda de esos servicios.
                             </p>
-                        </div>
-                        <img src="img/IaaS.png" class="img-galeria" alt="Hola">
                     </div>
                 </div>
-                
+                <img src="img/IaaS.png" class="img-galeria" alt="Hola">
+            </div> -->
+            
                 <div class="contenedor-servicio"> 
                     <img src="img/Tabla.png" class="img-galeria" alt="IaaS">
                     <div class="checklist-servicio">

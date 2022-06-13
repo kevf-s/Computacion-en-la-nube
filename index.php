@@ -283,45 +283,48 @@
                     <h2 style="text-align: center;">CARACTERIZACIÓN DE SAAS</h2>
                     <div class="contenedor-galeria">
                     <div class="multi_opcion" style="background:white; border: 3px solid #0089d8;border-radius: 10px;">
-                        <p>La aplicación SaaS debe generalizarse lo suficiente para que muchos clientes se interesen en el servicio.</p>
+                        <li>La aplicación SaaS debe generalizarse lo suficiente para que muchos clientes se interesen en el servicio.</li>
                     </div>
                     <div class="multi_opcion" style="background:white; border: 3px solid #0089d8;border-radius: 10px;">
-                        <p>Las aplicaciones SaaS necesitan una navegación sofisticada y facilidad de uso.</p>
+                        <li>Las aplicaciones SaaS necesitan una navegación sofisticada y facilidad de uso.</li>
                     </div>
                     <div class="multi_opcion" style="background:white; border: 3px solid #0089d8;border-radius: 10px;">
-                        <p>La aplicación SaaS debe ser modular y orientada a servicios</p>
+                        <li>La aplicación SaaS debe ser modular y orientada a servicios.</li>
                     </div>
                     <div class="multi_opcion" style="background:white; border: 3px solid #0089d8;border-radius: 10px;">
-                        <p>Una aplicación SaaS debe incluir medición y monitoreo para que a los clientes se les pueda cobrar el uso real.</p>
+                        <li>Una aplicación SaaS debe incluir medición y monitoreo para que a los clientes se les pueda cobrar el uso real.</li>
                     </div>
                     <div class="multi_opcion" style="background:white; border: 3px solid #0089d8;border-radius: 10px;">
-                        <p>Una aplicación SaaS debe tener un servicio de facturación integrado.</p>
+                        <li>Una aplicación SaaS debe tener un servicio de facturación integrado.</li>
                     </div>
                     <div class="multi_opcion" style="background:white; border: 3px solid #0089d8;border-radius: 10px;">
-                        <p>Las aplicaciones SaaS necesitan interfaces publicadas y un ecosistema de socios que puedan expandir la base de clientes y el alcance del mercado de la empresa.</p>
+                        <li>Las aplicaciones SaaS necesitan interfaces publicadas y un ecosistema de socios que puedan expandir la base de clientes y el alcance
+                        del mercado de la empresa.</li>
                     </div>
                     <div class="multi_opcion" style="background:white; border: 3px solid #0089d8;border-radius: 10px;">
-                        <p>Las aplicaciones SaaS deben proporcionar configuradores de procesos comerciales sofisticados para los clientes.</p>
+                        <li>Las aplicaciones SaaS deben proporcionar configuradores de procesos comerciales sofisticados para los clientes.</li>
                     </div>
                     <div class="multi_opcion" style="background:white; border: 3px solid #0089d8;border-radius: 10px;">
-                        <p>Las aplicaciones SaaS necesitan proporcionar constantemente lanzamientos rápidos de nuevas funciones y nuevas capacidades.</p>
+                        <li>Las aplicaciones SaaS necesitan proporcionar constantemente lanzamientos rápidos de nuevas funciones y nuevas capacidades.</li>
                     </div>
                     <div class="multi_opcion" style="background:white; border: 3px solid #0089d8;border-radius: 10px;">
-                        <p>Las aplicaciones SaaS tienen que proteger la integridad de los datos del cliente.</p>
+                        <li>Las aplicaciones SaaS tienen que proteger la integridad de los datos del cliente.</li>
                     </div>
                 </div>
                 <h2 style="text-align: center; margin-top: 30px;margin-bottom: 20px;">TIPOS DE PLATAFORMAS SAAS</h2>
                 <div class="contenedor-servicio">
                         <div class="checklist-servicio">
-                            <h2 style="text-align: center;margin-bottom: 20px;">Packaged software</h2>
+                            <h2 style="text-align: center;margin-bottom: 20px;">SOFTWARE DE EMPAQUETADO</h2>
                             <p style="text-align: justify;">
-                            Esta es el área más grande del mercado SaaS. El software empaquetado viene en varias categorias diferentes:
+                            El software de empaquetado se centran en un proceso específico, como la gestión de los beneficios de los empleados, los salarios y las revisiones anuales del
+                            rendimiento. Están diseñados con procesos empresariales específicos incorporados que los clientes pueden modificar. Se han trasladado en gran número a la nube
+                            porque los clientes encontraban las plataformas demasiado difíciles de gestionar.
                             </p>
                             <ul style="margin-left: 40px;margin-top: 20px;font-weight:  bolder;">
-                                <li>Gestión de relaciones con el cliente</li>
-                                <li>Gestión de la cadena de suministro</li>
-                                <li>Gestión financiera</li>
-                                <li>Recursos humanos</li>
+                                <li>Gestión de relaciones con el cliente.</li>
+                                <li>Gestión de la cadena de suministro.</li>
+                                <li>Gestión financiera.</li>
+                                <li>Recursos humanos.</li>
                             </ul>
                             
                         </div>
@@ -330,17 +333,18 @@
                 <div class="contenedor-servicio"style="margin-top: 20px;">
                     <img src="img/colaborativo.jpg" class="img-galeria" alt="Hola">
                         <div class="checklist-servicio">
-                            <h2 style="text-align: center;margin-bottom: 20px;">Collaborative software</h2>
+                            <h2 style="text-align: center;margin-bottom: 20px;">SOFTWARE DE COLABORACIÓN</h2>
                             <p style="text-align: justify;">
-                            Esta área cada vez más vibrante del mercado está impulsada por la disponibilidad omnipresente de Internet, combinada con el hecho de que los equipos están ubicados en todo el mundo. Esta área está dominada por software que se enfoca en todo tipo de esfuerzos de colaboración, incluidas:
+                            Esta área cada vez más vibrante del mercado está impulsada por la disponibilidad omnipresente de Internet, combinada con el hecho de que los equipos están ubicados en
+                            todo el mundo. Esta área está dominada por software que se enfoca en todo tipo de esfuerzos de colaboración, incluidas:
                             </p>
                             <p style="text-align: justify;margin-left: 20px;">
                                 <ul style="margin-left: 40px;margin-top: 20px; font-weight:  bolder;">
-                                    <li>Conferencias web</li>
-                                    <li>Colaboración de documentos</li>
-                                    <li>Planificación de proyectos</li>
-                                    <li>Mensajería instantánea</li>
-                                    <li>Incluso correo electrónico</li>
+                                    <li>Conferencias web.</li>
+                                    <li>Colaboración de documentos.</li>
+                                    <li>Planificación de proyectos.</li>
+                                    <li>Mensajería instantánea.</li>
+                                    <li>Incluso correo electrónico.</li>
                                 </ul>
                             </p>
                         </div>
@@ -348,28 +352,20 @@
                 <div class="contenedor-servicio" style="margin-top: 20px;">
                     
                         <div class="checklist-servicio">
-                            <h2 style="text-align: center;margin-bottom: 20px;">Herramientas de habilitación y gestión</h2>
+                            <h2 style="text-align: center;margin-bottom: 20px;">HERRAMIENTAS DE HABILITACIÓN Y GESTIÓN</h2>
                             <p style="text-align: justify;">
                             En esta sección se incluyen las herramientas de:
                             </p>
                             <p style="text-align: justify;margin-left: 20px;">
                                 <ul style="margin-left: 40px;margin-top: 20px; font-weight:  bolder;">
-                                    <li>Desarrollo que necesitan los desarrolladores al crear y ampliar una plataforma SaaS</li>
-                                    <li>de igual forma también se incluyen herramientas de las pruebas, el seguimiento y la medición que necesitan el cliente y el desarrollador.</li>
+                                    <li>Desarrollo que necesitan los desarrolladores al crear y ampliar una plataforma SaaS.</li>
+                                    <li>Incluyen herramientas de las pruebas, el seguimiento y la medición que necesitan el cliente y el desarrollador.</li>
                                     
                                 </ul>
                             </p>
                         </div>
                     <img src="img/gestion.jpg" class="img-galeria" alt="Hola">
                 </div>
-                <!-- <div class="contenedor-galeria">
-                    <img src="img/imagen1.jpg" class="img-galeria" alt="Hola">
-                    <img src="img/imagen2.jpg" class="img-galeria" alt="">
-                    <img src="img/imagen3.jpg" class="img-galeria" alt="">
-                    <img src="img/imagen4.jpg" class="img-galeria" alt="">
-                    <img src="img/imagen5.jpg" class="img-galeria" alt="">
-                    <img src="img/imagen6.jpg" class="img-galeria" alt="">
-                </div> -->
             </div>
 
             <!-- <div class="contenedor-servicio"> 

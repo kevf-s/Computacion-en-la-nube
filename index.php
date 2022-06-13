@@ -30,7 +30,7 @@
         <section class="services contenedor" id="servicio">
             <h2 class="subtitulo">CONTENIDO</h2>
             <div class="contenedor-servicio">
-                <img src="img/cloud_1.jpg" alt="">
+                <img src="img/cloud_1.jpg" class="img-galeria" alt="">
                 <div class="checklist-servicio">
                     <div class="service">
                         <h3 class="n-service"><span class="number">1</span>INFRASTRUCTURE AS A SERVICE (IaaS)</h3>
@@ -55,13 +55,14 @@
                 </div>
             </div>
         </section>
+        
         <section class="gallery" id="iaas">
             <div class="contenedor">
                 <h2 class="subtitulo">INFRASTRUCTURE AS A SERVICE (IaaS)</h2>
-                <div class="checklist-servicio">
-                <h2>QUE ES Y PARA QUE SIRVE?</h2>
+                <div>
                     <div class="contenedor-servicio">
                         <div class="checklist-servicio">
+                            <h2 style="text-align: center;">SIGNIFICADO</h2><br>
                             <p style="text-align: justify;">
                                 IaaS es la entrega de hardware informático(servidores, tecnología de red, almacenamiento y espacio de centro de datos) como un servicio.También puede esperar que incluya la entrega de sistemas operativos y tecnología de virtualización para administrar los recursos.Los clientes de IaaS alquilan recursos informáticos en lugar de comprarlos e instalarlos en su propio centro de datos.
                                 IaaS lleva el modelo ISP a un nuevo nivel. Si su infraestructura (incluido el hardware informático, los sistemas operativos y la tecnología de virtualización) se entrega como un servicio, esperará que el nivel de entrega del servicio esté sincronizado con todas las variaciones en su demanda de esos servicios.
@@ -78,32 +79,81 @@
 
             <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
                         <p>Un entorno virtualizado en la nube pública.</p>
+                            IaaS es la entrega de hardware informático(servidores, tecnología de red, almacenamiento y espacio de centro de datos) como un
+                            servicio.También puede esperar que incluya la entrega de sistemas operativos y tecnología de virtualización para administrar los
+                            recursos.Los clientes de IaaS alquilan recursos informáticos en lugar de comprarlos e instalarlos en su propio centro de datos. 
+                            IaaS lleva el modelo ISP a un nuevo nivel. Si su infraestructura (incluido el hardware informático, los sistemas operativos y la 
+                            tecnología de virtualización) se entrega como un servicio, esperará que el nivel de entrega del servicio esté sincronizado con. 
+                            todas las variaciones en su demanda de esos servicios.
+                            </p>
+                        </div>
+                        <img src="img/IaaS.png" class="img-galeria" alt="Hola">
                     </div>
-
-                    <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
-                        <p>Servidores virtuales, conexiones de red, y almacenamiento en la nube donde poder construir tu propia plataforma informática.</p>
+                </div>
+                
+                <div class="contenedor-servicio"> 
+                    <img src="img/Tabla.png" class="img-galeria" alt="IaaS">
+                    <div class="checklist-servicio">
+                        <div>
+                            <h2 style="text-align: center;"> CARACTERÍSTICAS</h2><br>
+                            <p style="text-align: justify;">
+                            <li>Un entorno virtualizado en la nube pública.</li>
+                            <li>Servidores virtuales, conexiones de red, y almacenamiento en la nube donde poder construir tu propia plataforma informática.</li>
+                            <li>Crea soluciones y aplicaciones tecnológicas cloud fácilmente.</li>
+                            <li>Externaliza el hardware al servicio cloud y disminuye costes.</li>
+                            <li>Ejecuta cualquier carga de trabajo en cualquier momento.</li>
+                            <li>Innovadoras herramientas para migrar el trabajo local a la nube.</li>
+                            </p><br>                    
+                        </div>
                     </div>
-
-                    <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
-                        <p>Crea soluciones y aplicaciones tecnológicas cloud fácilmente.</p>
+                </div>
+                
+                <div>
+                    <div class="contenedor-servicio">
+                        <div class="checklist-servicio">
+                            <h2 style="text-align: center;">EXAMINAR LA TECNOLOGÍA QUE PERMITE EL IAAS</h2><br>    
+                            <p style="text-align: justify;">APPLOGIC</p>
+                            <p style="text-align: justify;">AppLogic es un software de gestión que convierte conjuntos de servidores en reservas de recursos virtualizados que pueden
+                            compartirse entre varios usuarios.</p><br>
+            
+                            <li>Permite a los usuarios crear y retirar máquinas virtuales.</li>
+                            <li>Ofrecen definir la infraestructura necesaria, como cortafuegos, VPN, equilibradores de carga y almacenamiento, mediante una interfaz de navegador.</li><br>
+                        </div>
+                        <img src="img/IaaS_1.png" class="img-galeria" alt="">
                     </div>
-
-                    <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
-                        <p>Externaliza el hardware al servicio cloud y disminuye costes.</p>
+                </div>
+                
+                <div class="contenedor-servicio"> 
+                    <img src="img/IaaS_2.png" class="img-galeria" alt="">
+                    <div class="checklist-servicio">
+                        <div>        
+                            <p style="text-align: justify;">EUCALYPTUS</p>
+                            <p style="text-align: justify;">Eucalyptus es un sistema para implementar nubes privadas e híbridas en las instalaciones, utilizando la infraestructura de hardware
+                            y software existente, sin modificaciones. En efecto, es un complemento para la virtualización del centro de datos para crear una auténtica capacidad de nube, como el
+                            aprovisionamiento de autoservicio, la seguridad, la gestión del rendimiento y la personalización del usuario final.</p><br>
+                                
+                            <li>Eucalyptus es de código abierto, por lo que el software puede descargarse gratuitamente y también se incluye en la distribución de Linux Ubuntu 9.04 (y posteriores).</li>
+                            <li>Se implementa mediante herramientas disponibles en Linux y tecnologías básicas de servicios web.</li>
+                            <li>La interfaz actual de Eucalyptus es compatible con las interfaces EC2, S3 y Elastic Block Store (EBS) de Amazon.</li>
+                            </p><br>
+                        </div>
                     </div>
+                </div>
 
-                    <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
-                        <p>Ejecuta cualquier carga de trabajo en cualquier momento.</p>
+                <div>
+                    <div class="contenedor-servicio">
+                        <div class="checklist-servicio">
+                            <h2 style="text-align: center;">CONFIAR EN LA NUBE</h2><br>    
+                            <p style="text-align: justify;">La perspectiva de utilizar los servicios en la nube está rodeada de un gran nerviosismo. Parte de esto puede atribuirse a la falta de
+                            familiaridad con el uso de la capacidad basada en la nube, pero otra parte es mucho más profunda que eso. La nube de confianza incluye servicios que son:</p><br>
+            
+                            <li>Transparentes de control y resultado (si proporciona una completa interfaz para que puedas ver cómo funciona todo).</li>
+                            <li>Capaz de proporcionar pruebas de que los sistemas funcionan como se anuncia (si definitivamente cumple con los niveles de servicios que se supone que proporciona).</li><br>
+                        </div>
+                        <img src="img/IaaS_3.jpg" class="img-galeria" alt="">
                     </div>
+                </div>
 
-                    <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
-                        <p>Innovadoras herramientas para migrar el trabajo local a la nube.</p>
-                    </div>     
-                <div style='float:leg;margin:0 auto;width:2040px;'> 
-                <img src="img/Tabla.png" class="img-galeria" alt="Hola">
-           </div>
-                  </div>  
-            </div>
         </section>
         <div class="imagen-light">
             <img src="img/close.svg" alt="" class="close">
@@ -206,8 +256,8 @@
                             <p style="text-align: justify;">Para que el desarrollo en la nube prospere, se necesitan herramientas que faciliten la personalización de las aplicaciones
                             en la nube para las diferentes necesidades de los usuarios finales.</p><br>
                                 
-                            <li>Para que el desarrollo en la nube prospere, se necesitan herramientas que faciliten la personalización de las aplicaciones en la nube para las diferentes
-                            necesidades de los usuarios finales</li>
+                            <li>WaveMaker es una plataforma de desarrollo en la nube basada en Java. Está pretende facilitar a los desarrolladores la personalización y ampliación de las
+                            aplicaciones web desde un navegador web.</li>
                             <li>Gigaspaces es otra plataforma habilitadora, permite a los clientes construir aplicaciones web para la nube mediante la migración de aplicaciones empresariales
                             existentes.</li>
                             </p><br>
@@ -220,22 +270,23 @@
         </section>
         <section class="gallery" id="saas">
             <div class="contenedor">
-                <h2 class="subtitulo">Software as a Service</h2>
-                <div>
-                    
+                <h2 class="subtitulo">SOFTWARE AS A SERVICE (SaaS)</h2>
                     <div class="contenedor-servicio">
                         <div class="checklist-servicio">
-                            <h2 style="text-align: center;margin-bottom: 20px;">QUE ES?</h2>
-                            <p style="text-align: justify;">
-                            Una de las primeras implementaciones de los servicios en la nube fue el software como servicio (SaaS) el cual constaba de aplicaciones empresariales alojadas por el proveedor y entregadas como un servicio.
-        SaaS tiene sus raíces en un tipo temprano de operación de alojamiento realizada por proveedores de servicios de aplicaciones (ASP). Antes de la llegada de este tipo de servicio, las empresas a menudo gastaban grandes cantidades de dinero en implementar y personalizar estas aplicaciones para satisfacer los requisitos comerciales internos.
-                            </p>
-                        </div>
-                        <img src="img/SaaS.png" class="img-galeria" alt="Hola">
+                                <h2 style="text-align: center;">¿QUÉ ES?</h2><br>
+                                <p style="text-align: justify;">
+                                Una de las primeras implementaciones de los servicios en la nube fue el software como servicio (SaaS) el cual constaba de aplicaciones empresariales alojadas por
+                                el proveedor y entregadas como un servicio SaaS tiene sus raíces en un tipo temprano de operación de alojamiento realizada por proveedores de servicios de aplicaciones
+                                (ASP). Antes de la llegada de este tipo de servicio, las empresas a menudo gastaban grandes cantidades de dinero en implementar y personalizar estas aplicaciones para 
+                                satisfacer los requisitos comerciales internos.
+                                </p>
+                            </div>
+                            <img src="img/SaaS.png" class="img-galeria" alt="Hola">
                     </div>
-                </div>
-                <h2 style="text-align: center;">CARACTERIZACIÓN DE SAAS</h2>
-                <div class="contenedor-galeria">
+
+
+                    <h2 style="text-align: center;">CARACTERIZACIÓN DE SAAS</h2>
+                    <div class="contenedor-galeria">
                     <div class="multi_opcion" style="background:white; border: 3px solid #0089d8;border-radius: 10px;">
                         <p>La aplicación SaaS debe generalizarse lo suficiente para que muchos clientes se interesen en el servicio.</p>
                     </div>
@@ -325,20 +376,76 @@
                     <img src="img/imagen6.jpg" class="img-galeria" alt="">
                 </div> -->
             </div>
+
+            <!-- <div class="contenedor-servicio"> 
+                    <img src="img/Saas_0.png" class="img-galeria" alt="IaaS">
+                    <div class="checklist-servicio">
+                        <div>
+                            <h2 style="text-align: center;"> CARACTERÍSTICAS DEL SOFTWARE COMO SERVICIO</h2><br>
+                            <p style="text-align: justify;">
+                            <li>La aplicación SaaS debe ser lo suficientemente generalizada como para que muchos clientes se interesen por el servicio.</li>
+                            <li>Las aplicaciones SaaS necesitan una navegación sofisticada y facilidad de uso.</li>
+                            <li>Una aplicación SaaS debe incluir la medición y el seguimiento para que a los clientes se les pueda cobrar el uso real.</li>
+                            <li>Una aplicación SaaS debe tener un servicio de facturación incorporado.</li>
+                            <li>Las aplicaciones SaaS necesitan interfaces publicadas y un ecosistema de socios que puedan ampliar la base de clientes de la empresa y alcance del mercado.</li>
+                            <li>Las aplicaciones SaaS tienen que proporcionar sofisticados configuradores de procesos de negocio para los clientes.</li>
+                            <li>Las aplicaciones SaaS tienen que garantizar que los datos y las configuraciones especializadas de cada cliente estén separados y seguros de los datos y configuraciones
+                            de otros clientes.</li>
+                            </p><br>                    
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="contenedor-servicio">
+                        <div class="checklist-servicio">
+                            <h2 style="text-align: center;">TIPOS DE PLATAFORMAS SaaS</h2><br>
+                            <p style="text-align: justify;">SOFTWARE EMPAQUETADO</p>
+                            <p style="text-align: justify;">
+                            El software empaquetado viene en muchos tipos diferentes: gestión de la relación con el cliente, gestión de la cadena de suministro, gestión financiera y recursos humanos, 
+                            por nombrar los más comunes. Estas ofertas integradas se centran en un proceso específico, como la gestión de los beneficios de los empleados, los salarios y las revisiones
+                            anuales del rendimiento.</p><br>
+                            <p style="text-align: justify;">
+                            <li>Están diseñados con procesos empresariales específicos incorporados que los clientes pueden modificar. </li>
+                            <li>Se han trasladado en gran número a la nube porque los clientes encontraban las plataformas demasiado difíciles de gestionar.</li>
+                            </p><br>
+                        </div>
+                        <img src="img/SaaS_1.jpg" class="img-galeria" alt="Hola">
+                    </div>
+                </div>
+            </div>
+
+            <div class="contenedor-servicio"> 
+                    <img src="img/SaaS_2.jpg" class="img-galeria" alt="">
+                    <div class="checklist-servicio">
+                        <div>        
+                            <p style="text-align: justify;">SOFTWARE DE COLABORACIÓN</p>
+                            <p style="text-align: justify;">Esta área está dominada por software que se centra en todo tipo de esfuerzos de colaboración, incluyendo conferencias, colaboración en documentos,
+                            planificación de proyectos, mensajería instantánea e incluso correo electrónico. En cierto sentido, era inevitable que estas plataformas se trasladaran a la nube: Estas tareas se
+                            llevan a cabo en toda la organización y deben ser fácilmente accesibles desde muchos lugares.</p><br>
+                                
+                            <li>Este sector del mercado, cada vez más dinámico, está de Internet, junto con el hecho de que los equipos se encuentran en todo el mundo.</li>
+                            <li>Gigaspaces es otra plataforma habilitadora, permite a los clientes construir aplicaciones web para la nube mediante la migración de aplicaciones empresariales
+                            existentes.</li>
+                            </p><br>
+                        </div>
+                    </div>
+                </div> -->
+
         </section>
         <section class="contenedor" id="paas">
             <h2 class="subtitulo">ELABORADO POR:</h2>
             <section class="experts">
                 <div class="cont-expert">
-                    <img src="img/Usuario1.png" alt="">
+                    <img src="img/Alx.png" alt="">
                     <h3 class="n-expert">ALEXIS ANGELES SEGUNDO</h3>
                 </div>
                 <div class="cont-expert">
-                    <img src="img/Usuario1.png" alt="">
+                    <img src="img/Aar.png" alt="">
                     <h3 class="n-expert">AARON CRUZ GONZALEZ</h3>
                 </div>
                 <div class="cont-expert">
-                    <img src="img/Usuario1.png" alt="">
+                    <img src="img/kev.png" alt="">
                     <h3 class="n-expert">KEVIN CELOTE SEGUNDO</h3>
                 </div>
             </section>

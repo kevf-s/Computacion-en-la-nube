@@ -34,16 +34,23 @@
                 <div class="checklist-servicio">
                     <div class="service">
                         <h3 class="n-service"><span class="number">1</span>INFRASTRUCTURE AS A SERVICE (IaaS)</h3>
-                        <p> IaaS es la entrega de hardware informático (servidores, tecnología de red.</p>
+                        <p align=" justify"> La Infraestructura como Servicio (IaaS) es la entrega de hardware informático (servidores,
+                            tecnología de redes almacenamiento y espacio en el centro de datos) como un servicio. También se puede esperar
+                            que incluya la entrega de sistemas operativos y tecnología de virtualización para gestionar los recursos. Los
+                            clientes de IaaS alquilan recursos informáticos en lugar de comprare instalarlos en su propio centro de datos.</p>
                     </div>
                     <div class="service">
-                        <a href="contenido/PaaS.php" target="_self">
-                        <h3 class="n-service"><span class="number">2</span>PLATFORM AS A SERVICE (PaaS)</h3></a>
-                        <p> CON EL CAMBIO DE ESTACIÓN AUMENTA LA SEROTONINA, HORMONA QUE MEJORA TU ESTADO DE ÁNIMO.</p>
+                        <h3 class="n-service"><span class="number">2</span>PLATFORM AS A SERVICE (PaaS)</h3>
+                        <p align=" justify"> En la Plataforma como Servicio (PaaS) esta se define como una plataforma informática que
+                            incluye un conjunto de capacidades de desarrollo, middleware y despliegue. Una característica clave del
+                            proveedor es la creación y el fomento de un ecosistema profundo de socios que se comprometen con este
+                            entorno para el futuro.</p>
                     </div>
                     <div class="service">
                         <h3 class="n-service"><span class="number">3</span>SOFTWARE AS A SERVICE (SaaS)</h3>
-                        <p> CON DÍAS MÁS SOLEADOS CRECE EL DESEO DE REALIZAR ACTIVIDADES AL AIRE LIBRE.</p>
+                        <p align=" justify"> El Software como Servicio (SaaS) es un modelo de distribución de software donde el soporte
+                            lógico y los respectivos datos que maneja se alojan en los servidores de un proveedor, cuyo acceso es a través
+                            de Internet. El proveedor no solo proporciona el hardware, sino también el software correspondiente.</p>
                     </div>
                 </div>
             </div>
@@ -101,22 +108,114 @@
             <img src="img/close.svg" alt="" class="close">
             <img src="" alt="" class="agregar-imagen">
         </div>
+
         <section class="contenedor" id="paas">
-            <h2 class="subtitulo">PLATFORM AS A SERVICE (PaaS)</h2>
-            <section class="experts">
-                <div class="cont-expert">
-                    <img src="img/imagen8.jpg" alt="">
-                    <h3 class="n-expert"></h3>
+            <div class="contenedor">
+                <h2 class="subtitulo">PLATFORM AS A SERVICE (PaaS)</h2>
+                <div class="contenedor-servicio"> 
+                    <img src="img/PaaS_0.png" class="img-galeria" alt="PaaS">
+                    <div class="checklist-servicio">
+                        <div>
+                            <h2 style="text-align: center;"> DEFINICIÓN</h2><br>
+                            <p style="text-align: justify;">
+                                Plataforma como servicio ( PaaS )  una categoría de servicios de computación en la nube que permite a los
+                                clientes aprovisionar, instanciar, ejecutar y administrar un paquete modular que comprende una plataforma
+                                informática y uno o más aplicaciones, sin la complejidad de construir y mantener la infraestructura típicamente
+                                asociada con el desarrollo y lanzamiento de la(s) aplicación(es); y para permitir que los desarrolladores creen,
+                                desarrollen y empaqueten dichos paquetes de software .
+                            </p><br>                    
+                        </div>
+                    </div>
+                </div>    
+
+                <div>
+                    <div class="contenedor-servicio">
+                        <div class="checklist-servicio">
+                            <h2 style="text-align: center;">CARACTERÍSTICAS</h2><br>    
+                            <p style="text-align: justify;">
+                            <li>PaaS debe ofrecer algún tipo de lenguaje de desarrollo para que los desarrolladores profesionales puedan añadir valor.</li>
+                            <li>Estos entornos necesitan una forma de supervisar y medir el uso de los recursos y hacer un seguimiento del rendimiento
+                                general de la plataforma del proveedor.</li>
+                            <li>Casi todas las plataformas PaaS se basan en una arquitectura multi-tenancy (que permite que varios clientes ejecuten su
+                                copia por separado de los demás a través de la virtualización).</li>
+                            <li>Un entorno PaaS debe soportar el ciclo de vida del desarrollo y el proceso de desarrollo en equipo, incluyendo las pruebas.</li>
+                            <li>Una plataforma PaaS debe ser capaz de desplegar, gestionar, probar y mantener las aplicaciones desarrolladas.</li>
+                            </p><br>
+                        </div>
+                        <img src="img/PaaS_1.png" class="img-galeria" alt="">
+                    </div>
                 </div>
-                <div class="cont-expert">
-                    <img src="img/imagen8.jpg" alt="">
-                    <h3 class="n-expert"></h3>
+
+                <div class="contenedor-servicio"> 
+                    <img src="img/PaaS_2.png" class="img-galeria" alt="">
+                    <div class="checklist-servicio">
+                        <div>
+                            <h2 style="text-align: center;">INTRODUCCIÓN A LA PLATAFORMA DEL CICLO DE VIDA INTEGRADO</h2><br>
+                            <p style="text-align: justify;">GOOGLE APP ENGINE</p>
+                            <p style="text-align: justify;"> El App Engine gestiona el ciclo de vida de la aplicación web, incluyendo tareas rutinarias como el registro de solicitudes,
+                                la comprobación del estado de la aplicación, la actualización de la versión de la aplicación, el funcionamiento de la base
+                                de datos subyacente y la gestión del flujo de trabajo.</p><br>
+
+                            <li>No se requiere ensamblaje.</li>
+                            <li>Google App Engine expone un entorno de desarrollo totalmente integrado.</li>
+                            <li>Es fácil de escalar.</li>
+                            <li>Es gratis para empezar.</li>
+                            </p><br>             
+                        </div>
+                    </div>
                 </div>
-                <div class="cont-expert">
-                    <img src="img/imagen8.jpg" alt="">
-                    <h3 class="n-expert"></h3>
+
+                <div>
+                    <div class="contenedor-servicio">
+                        <div class="checklist-servicio">    
+                                <p style="text-align: justify;">MICROSOFT AZURE</p>
+                                <p style="text-align: justify;"> Azure es la estrategia PaaS de Microsoft que se anunció en 2008. Microsoft define la plataforma Azure como una plataforma 
+                                    de servicios en la nube a escala de Internet alojada en los centros de datos de Microsoft, que proporciona un sistema operativo
+                                    y un conjunto de servicios para desarrolladores que pueden utilizarse de forma individual o conjunta.</p><br>
+                                
+                                <li>Permite a los desarrolladores utilizar la misma tecnología subyacente y para crear tanto aplicaciones locales como en la nube.</li>
+                                <li>Garantiza una combinación de computación local con servicios basados en la nube.</li>
+                                </p><br>
+                            </div>
+                    <img src="img/PaaS_3.png" class="img-galeria" alt="">
                 </div>
-            </section>
+
+                <div>
+                    <div class="contenedor-servicio">
+                        <div class="checklist-servicio">
+                            <h2 style="text-align: center;">LAS TECNOLOGÍAS DE APOYO COMO PLATAFORMA</h2><br>    
+                            <p style="text-align: justify;">PRUEBAS EN LA NUBE</p>
+                            <p style="text-align: justify;">Las pruebas en la nube son muy críticas; sin embargo, la mayoría de las plataformas no proporcionan su propio entorno de
+                            pruebas. Cientos de proveedores, grandes y pequeños, ofrecen servicios para probar plataformas basadas en la nube. basadas en la nube. Entre ellos se 
+                            encuentran HP, IBM y empresas independientes como iTKO y SOASTA.</p><br>
+            
+                            <li>Se integran con la plataforma y permiten a los clientes probar sus aplicaciones antes de desplegarlas en una nube pública o privada.</li>
+                            <li>Ofrecen sus propias pruebas vinculadas a su plataforma, muchos clientes y desarrolladores necesitan pruebas para su propio código y para las pruebas de
+                            integración.</li><br>
+                        </div>
+                        <img src="img/PaaS_4.jpg" class="img-galeria" alt="">
+                    </div>
+                </div>
+
+                <div class="contenedor-servicio"> 
+                    <img src="img/PaaS_5.jpg" class="img-galeria" alt="">
+                    <div class="checklist-servicio">
+                        <div>        
+                            <p style="text-align: justify;">PLATAFORMAS DE INTEGRACIÓN Y CONFIGURACIÓN</p>
+                            <p style="text-align: justify;">Para que el desarrollo en la nube prospere, se necesitan herramientas que faciliten la personalización de las aplicaciones
+                            en la nube para las diferentes necesidades de los usuarios finales.</p><br>
+                                
+                            <li>Para que el desarrollo en la nube prospere, se necesitan herramientas que faciliten la personalización de las aplicaciones en la nube para las diferentes
+                            necesidades de los usuarios finales</li>
+                            <li>Gigaspaces es otra plataforma habilitadora, permite a los clientes construir aplicaciones web para la nube mediante la migración de aplicaciones empresariales
+                            existentes.</li>
+                            </p><br>
+                        </div>
+                    </div>
+                </div>
+            </div>       
+        </section>
+
         </section>
         <section class="gallery" id="saas">
             <div class="contenedor">
@@ -177,15 +276,15 @@
             <h2 class="subtitulo">ELABORADO POR:</h2>
             <section class="experts">
                 <div class="cont-expert">
-                    <img src="img/imagen8.jpg" alt="">
+                    <img src="img/Usuario1.png" alt="">
                     <h3 class="n-expert">ALEXIS ANGELES SEGUNDO</h3>
                 </div>
                 <div class="cont-expert">
-                    <img src="img/imagen8.jpg" alt="">
+                    <img src="img/Usuario1.png" alt="">
                     <h3 class="n-expert">AARON CRUZ GONZALEZ</h3>
                 </div>
                 <div class="cont-expert">
-                    <img src="img/imagen8.jpg" alt="">
+                    <img src="img/Usuario1.png" alt="">
                     <h3 class="n-expert">KEVIN CELOTE SEGUNDO</h3>
                 </div>
             </section>

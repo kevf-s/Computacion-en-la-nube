@@ -255,7 +255,7 @@
         </section>
         <section class="gallery" id="saas">
             <div class="contenedor">
-                <h2 class="subtitulo">Software as a Service (SaaS)</h2>
+                <h2 class="subtitulo">SOFTWARE AS A SERVICE (SaaS)</h2>
                 <div>
                     <div class="contenedor-servicio">
                         <div class="checklist-servicio">
@@ -319,7 +319,7 @@
                             planificación de proyectos, mensajería instantánea e incluso correo electrónico. En cierto sentido, era inevitable que estas plataformas se trasladaran a la nube: Estas tareas se
                             llevan a cabo en toda la organización y deben ser fácilmente accesibles desde muchos lugares.</p><br>
                                 
-                            <li>PEste sector del mercado, cada vez más dinámico, está de Internet, junto con el hecho de que los equipos se encuentran en todo el mundo.</li>
+                            <li>Este sector del mercado, cada vez más dinámico, está de Internet, junto con el hecho de que los equipos se encuentran en todo el mundo.</li>
                             <li>Gigaspaces es otra plataforma habilitadora, permite a los clientes construir aplicaciones web para la nube mediante la migración de aplicaciones empresariales
                             existentes.</li>
                             </p><br>
@@ -332,15 +332,15 @@
             <h2 class="subtitulo">ELABORADO POR:</h2>
             <section class="experts">
                 <div class="cont-expert">
-                    <img src="img/Usuario1.png" alt="">
+                    <img src="img/Alx.png" alt="">
                     <h3 class="n-expert">ALEXIS ANGELES SEGUNDO</h3>
                 </div>
                 <div class="cont-expert">
-                    <img src="img/Usuario1.png" alt="">
+                    <img src="img/Aar.png" alt="">
                     <h3 class="n-expert">AARON CRUZ GONZALEZ</h3>
                 </div>
                 <div class="cont-expert">
-                    <img src="img/Usuario1.png" alt="">
+                    <img src="img/kev.png" alt="">
                     <h3 class="n-expert">KEVIN CELOTE SEGUNDO</h3>
                 </div>
             </section>

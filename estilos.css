@@ -54,8 +54,8 @@ body{
     top: 0;
     width: 30vw;
     height: 100%;
-    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
-    background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background-image: linear-gradient(to top, #4c00ff 0%, #b0c5ff 100%);
+    background-image: linear-gradient(135deg, #a1b2ff 0%, #003cff 100%);
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -276,7 +276,7 @@ footer{
 }
 .social-media-icon:hover{
     background: #fff;
-    color:#764ba2;
+    color:#27259c;
 }
 
 @media screen and (max-width: 800px){

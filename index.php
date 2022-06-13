@@ -55,54 +55,44 @@
                 </div>
             </div>
         </section>
+        
         <section class="gallery" id="iaas">
             <div class="contenedor">
                 <h2 class="subtitulo">INFRASTRUCTURE AS A SERVICE (IaaS)</h2>
-                <div class="checklist-servicio">
-                <h2>QUE ES Y PARA QUE SIRVE?</h2>
+                <div>
                     <div class="contenedor-servicio">
                         <div class="checklist-servicio">
+                            <h2 style="text-align: center;">SIGNIFICADO</h2><br>
                             <p style="text-align: justify;">
-        IaaS es la entrega de hardware informático(servidores, tecnología de red, almacenamiento y espacio de centro de datos) como un servicio.También puede esperar que incluya la entrega de sistemas operativos y tecnología de virtualización para administrar los recursos.Los clientes de IaaS alquilan recursos informáticos en lugar de comprarlos e instalarlos en su propio centro de datos.
-        IaaS lleva el modelo ISP a un nuevo nivel. Si su infraestructura (incluido el hardware informático, los sistemas operativos y la tecnología de virtualización) se entrega como un servicio, esperará que el nivel de entrega del servicio esté sincronizado con todas las variaciones en su demanda de esos servicios.
-            </p>    
-            </div>
-                <img src="img/iaaS.png" class="img-galeria" alt="Hola">
-           </div>
-
-           </div>
-                <h2 style="text-align: center;">CARACTERISITCAS</h2>
-                <div class="contenedor-galeria">
-            </div>
-
-            <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
-                        <p>Un entorno virtualizado en la nube pública.</p>
+                            IaaS es la entrega de hardware informático(servidores, tecnología de red, almacenamiento y espacio de centro de datos) como un
+                            servicio.También puede esperar que incluya la entrega de sistemas operativos y tecnología de virtualización para administrar los
+                            recursos.Los clientes de IaaS alquilan recursos informáticos en lugar de comprarlos e instalarlos en su propio centro de datos. 
+                            IaaS lleva el modelo ISP a un nuevo nivel. Si su infraestructura (incluido el hardware informático, los sistemas operativos y la 
+                            tecnología de virtualización) se entrega como un servicio, esperará que el nivel de entrega del servicio esté sincronizado con. 
+                            todas las variaciones en su demanda de esos servicios.
+                            </p>
+                        </div>
+                        <img src="img/IaaS.png" class="img-galeria" alt="Hola">
                     </div>
-
-                    <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
-                        <p>Servidores virtuales, conexiones de red, y almacenamiento en la nube donde poder construir tu propia plataforma informática.</p>
+                </div>
+                
+                <div class="contenedor-servicio"> 
+                    <img src="img/Tabla.png" class="img-galeria" alt="IaaS">
+                    <div class="checklist-servicio">
+                        <div>
+                            <h2 style="text-align: center;"> CARACTERÍSTICAS</h2><br>
+                            <p style="text-align: justify;">
+                            <li>Un entorno virtualizado en la nube pública.</li>
+                            <li>Servidores virtuales, conexiones de red, y almacenamiento en la nube donde poder construir tu propia plataforma informática.</li>
+                            <li>Crea soluciones y aplicaciones tecnológicas cloud fácilmente.</li>
+                            <li>Externaliza el hardware al servicio cloud y disminuye costes.</li>
+                            <li>Ejecuta cualquier carga de trabajo en cualquier momento.</li>
+                            <li>Innovadoras herramientas para migrar el trabajo local a la nube.</li>
+                            </p><br>                    
+                        </div>
                     </div>
-
-                    <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
-                        <p>Crea soluciones y aplicaciones tecnológicas cloud fácilmente.</p>
-                    </div>
-
-                    <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
-                        <p>Externaliza el hardware al servicio cloud y disminuye costes.</p>
-                    </div>
-
-                    <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
-                        <p>Ejecuta cualquier carga de trabajo en cualquier momento.</p>
-                    </div>
-
-                    <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
-                        <p>Innovadoras herramientas para migrar el trabajo local a la nube.</p>
-                    </div>     
-                <div style='float:leg;margin:0 auto;width:2040px;'> 
-                <img src="img/Tabla.png" class="img-galeria" alt="Hola">
-           </div>
-                  </div>  
-            </div>
+                </div>      
+                
         </section>
         <div class="imagen-light">
             <img src="img/close.svg" alt="" class="close">
@@ -219,20 +209,23 @@
         </section>
         <section class="gallery" id="saas">
             <div class="contenedor">
-                <h2 class="subtitulo">Software as a Service</h2>
+                <h2 class="subtitulo">Software as a Service (SaaS)</h2>
                 <div>
-                    <h2>QUE ES?</h2>
                     <div class="contenedor-servicio">
                         <div class="checklist-servicio">
+                            <h2 style="text-align: center;">¿QUÉ ES?</h2><br>
                             <p style="text-align: justify;">
-                            Una de las primeras implementaciones de los servicios en la nube fue el software como servicio (SaaS) el cual constaba de aplicaciones empresariales alojadas por el proveedor y entregadas como un servicio.
-        SaaS tiene sus raíces en un tipo temprano de operación de alojamiento realizada por proveedores de servicios de aplicaciones (ASP). Antes de la llegada de este tipo de servicio, las empresas a menudo gastaban grandes cantidades de dinero en implementar y personalizar estas aplicaciones para satisfacer los requisitos comerciales internos.
+                            Una de las primeras implementaciones de los servicios en la nube fue el software como servicio (SaaS) el cual constaba de aplicaciones empresariales alojadas por
+                            el proveedor y entregadas como un servicio SaaS tiene sus raíces en un tipo temprano de operación de alojamiento realizada por proveedores de servicios de aplicaciones
+                            (ASP). Antes de la llegada de este tipo de servicio, las empresas a menudo gastaban grandes cantidades de dinero en implementar y personalizar estas aplicaciones para 
+                            satisfacer los requisitos comerciales internos.
                             </p>
                         </div>
                         <img src="img/SaaS.png" class="img-galeria" alt="Hola">
                     </div>
                 </div>
-                <h2 style="text-align: center;">CARACTERISITCAS</h2>
+
+                <h2 style="text-align: center;">CARACTERISITCAS</h2><br>
                 <div class="contenedor-galeria">
                     <div class="multi_opcion" style="background:#dcf2ff; border: 3px solid #0089d8;">
                         <p>La aplicación SaaS debe generalizarse lo suficiente para que muchos clientes se interesen en el servicio.</p>
@@ -262,14 +255,6 @@
                         <p>Las aplicaciones SaaS tienen que proteger la integridad de los datos del cliente.</p>
                     </div>
                 </div>
-                <!-- <div class="contenedor-galeria">
-                    <img src="img/imagen1.jpg" class="img-galeria" alt="Hola">
-                    <img src="img/imagen2.jpg" class="img-galeria" alt="">
-                    <img src="img/imagen3.jpg" class="img-galeria" alt="">
-                    <img src="img/imagen4.jpg" class="img-galeria" alt="">
-                    <img src="img/imagen5.jpg" class="img-galeria" alt="">
-                    <img src="img/imagen6.jpg" class="img-galeria" alt="">
-                </div> -->
             </div>
         </section>
         <section class="contenedor" id="paas">
